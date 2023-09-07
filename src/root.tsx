@@ -23,9 +23,12 @@ export default function Root() {
   return (
     <Html lang="en">
       <Head>
-        <Title>SolidStart - Bare</Title>
+        <Title>零基础学习英语语法-随册练习</Title>
         <Meta charset="utf-8" />
-        <Meta name="viewport" content="width=device-width, initial-scale=1" />
+        <Meta
+          name="viewport"
+          content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no"
+        />
       </Head>
       <Body class="bg-light text-gray-5 text-sm flex h-screen flex-items-start flex-justify-center">
         <Suspense>

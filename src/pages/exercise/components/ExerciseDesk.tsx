@@ -74,16 +74,24 @@ const ExerciseDesk = () => {
               {state.questions.length}/{state.progress + 1}
             </span>
           </div>
-          <div class="space-x-sm mt-6">
-            <button onClick={actions.viewAnswer} class="bg-amber text-white px-8 py-2 rounded-36">
-              提示
-            </button>
+          <div class="mt-6 flex flex-justify-between">
+            <div class="space-x-sm">
+              <button onClick={actions.viewAnswer} class="bg-amber text-white px-8 py-2 rounded-36">
+                提示
+              </button>
+              <button
+                classList={{ "bg-green": memos.isRight(), "bg-gray-3": !memos.isRight() }}
+                class=" text-white px-8 py-2 rounded-36"
+                onClick={() => actions.next()}
+              >
+                下一题
+              </button>
+            </div>
             <button
-              classList={{ "bg-green": memos.isRight(), "bg-gray-3": !memos.isRight() }}
-              class=" text-white px-8 py-2 rounded-36"
-              onClick={() => actions.next()}
+              class="bg-red text-white px-8 py-2 rounded-36"
+              onClick={() => actions.resetProgress()}
             >
-              下一题
+              重置
             </button>
           </div>
         </div>

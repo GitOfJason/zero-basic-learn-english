@@ -29,7 +29,7 @@ const Input: Component<InputProps> = props => {
       }}
     >
       <input
-        class="w-[100%] placeholder:text-gray-2 placeholder:font-normal text-neutral-6 text-2xl font-medium py-2 border-b outline-none"
+        class="w-[100%] rounded-0 placeholder:text-gray-2 placeholder:font-normal text-neutral-6 text-2xl font-medium py-2 border-b outline-none"
         value={props.value}
         placeholder="请输入答案"
         onInput={event => {
