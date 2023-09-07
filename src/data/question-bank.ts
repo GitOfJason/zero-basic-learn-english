@@ -1212,27 +1212,356 @@ export const questionBank: QuestionGroup[] = [
   {
     lessonId: "15",
     title: "Lesson15 介词in的用法",
-    questions: []
+    questions: [
+      {
+        question: "你妹妹在哪里？",
+        answer: "Where is your sister?"
+      },
+      {
+        question: "我妹妹是在她的房间里。",
+        answer: "My sister is in her room."
+      },
+      {
+        question: "你妹妹是在她的房间里吗？",
+        answer: "Is your sister in her room?"
+      },
+      {
+        question: "是的，她在。",
+        answer: "Yes, she is."
+      },
+      {
+        question: "为什么你妹妹是在她的房间里？",
+        answer: "Why is your sister in her room?"
+      },
+      {
+        question: "她在她的房间里因为她是疲倦的。",
+        answer: "She is in her room because she is tired."
+      },
+      {
+        question: "那个人在哪里？",
+        answer: "Where is that person?"
+      },
+      {
+        question: "那个人是在我的房子里。",
+        answer: "That person is in my house."
+      },
+      {
+        question: "那个人是在你的房子里吗？",
+        answer: "Is that person in your house?"
+      },
+      {
+        question: "是的，他在。",
+        answer: "Yes, he is."
+      },
+      {
+        question: "为什么那个人是在你的房子里？",
+        answer: "Why is that person in your house?"
+      },
+      {
+        question: "那个人在我的房子里因为他是我的丈夫（husband）。",
+        answer: "That person is in my house because he is my husband."
+      },
+      {
+        question: "你的父亲在哪里？",
+        answer: "Where is your father?"
+      },
+      {
+        question: "我的父亲在他的办公室里。",
+        answer: "My father is in his office."
+      },
+      {
+        question: "你的父亲在他的办公室吗？",
+        answer: "Is your father in his office?"
+      },
+      {
+        question: "是的，他在。",
+        answer: "Yes, he is."
+      },
+      {
+        question: "为什么你的父亲在他的办公室？",
+        answer: "Why is your father in his office?"
+      },
+      {
+        question: "他在他的办公室因为他是忙碌的.",
+        answer: "He is in his office because he is busy."
+      },
+      {
+        question: "那位友善的（friendly）女服务生在哪里？",
+        answer: "Where is that friendly waitress?"
+      },
+      {
+        question: "那位友善的（friendly）女服务生在那家书店里。",
+        answer: "That friendly waitress is in that bookstore."
+      },
+      {
+        question: "那位友善的（friendly）女服务生在那家书店里吗？",
+        answer: "Is that friendly waitress in that bookstore?"
+      },
+      {
+        question: "是的，她在。",
+        answer: "Yes, she is."
+      },
+      {
+        question: "为什么那位友善的（friendly）女服务生在那家书店里？",
+        answer: "Why is that friendly waitress in that bookstore?"
+      },
+      {
+        question: "她在那家书店里因为她的儿子在那家书店里。",
+        answer: "She is in that bookstore because her son is in that bookstore."
+      },
+      {
+        question: "那个健康的婴儿在哪里？",
+        answer: "Where is that healthy baby?"
+      },
+      {
+        question: "那个健康的婴儿在她的汽车里。",
+        answer: "That healthy baby is in her car."
+      },
+      {
+        question: "那个健康的婴儿在她的汽车里吗？",
+        answer: "Is that healthy baby in her car?"
+      },
+      {
+        question: "是的，他在。",
+        answer: "Yes, he is."
+      },
+      {
+        question: "为什么那个健康的婴儿在她的汽车里？",
+        answer: "Why is that healthy baby in her car?"
+      },
+      {
+        question: "那个婴儿在她的汽车里因为她是他的母亲。",
+        answer: "That baby is in her car because she is his mother."
+      },
+      {
+        question: "那只猴子在哪里？",
+        answer: "Where is that monkey?"
+      },
+      {
+        question: "那只猴子在我的教室里。",
+        answer: "That monkey is in my classroom."
+      },
+      {
+        question: "那只猴子在你的教室里吗？",
+        answer: "Is that monkey in your classroom?"
+      },
+      {
+        question: "是的，它在。",
+        answer: "Yes, it is."
+      },
+      {
+        question: "为什么那只猴子在你的教室里？",
+        answer: "Why is that monkey in your classroom?"
+      },
+      {
+        question: "它在我的教室里因为它是我的宠物",
+        answer: "It is in my classroom because it is my pet."
+      }
+    ]
   },
   {
     lessonId: "16",
     title: "Lesson16 介词on的用法",
-    questions: []
+    questions: [
+      {
+        question: "那本书是在你的书桌上。",
+        answer: "That book is on your desk."
+      },
+      {
+        question: "那本书是在我的书桌上吗？",
+        answer: "Is that book on my desk?"
+      },
+      {
+        question: "是的，它在。",
+        answer: "Yes, it is."
+      },
+      {
+        question: "为什么那本书在我的书坐上？",
+        answer: "Why is that book on my desk?"
+      },
+      {
+        question: "那本书在你的桌子上应为它是你的书。",
+        answer: "That book is on your desk because it is your book."
+      },
+      {
+        question: "那只狗是在她的餐桌上。",
+        answer: "That dog is on her table."
+      },
+      {
+        question: "那只狗是在她的餐桌上吗？",
+        answer: "Is that dog on her table?"
+      },
+      {
+        question: "是的，它在。",
+        answer: "Yes, it is."
+      },
+      {
+        question: "为什么那只狗是在她的餐桌上？",
+        answer: "Why is that dog on her table."
+      },
+      {
+        question: "那只狗在她的餐桌上因为它是饿的。",
+        answer: "That dog is on her table because it is hungry."
+      }
+    ]
   },
   {
     lessonId: "17",
     title: "Lesson17 其他常用介词",
-    questions: []
+    questions: [
+      {
+        question: "那把钥匙是在那个盒子里。",
+        answer: "That key is in that box."
+      },
+      {
+        question: "那把钥匙是在那个盒子吗？",
+        answer: "Is that key in that box?"
+      },
+      {
+        question: "不，它不在。",
+        answer: "No, it is not."
+      },
+      {
+        question: "那把钥匙在你的桌上。",
+        answer: "That key is on your table."
+      },
+      {
+        question: "她的狗是在哪个商店旁边（at）。",
+        answer: "Her dog is at that store."
+      },
+      {
+        question: "她的狗是在哪个商店旁边吗？",
+        answer: "Is her dog at that store?"
+      },
+      {
+        question: "不，它不在。",
+        answer: "No, it is not."
+      },
+      {
+        question: "她的狗是在你的丈夫旁边（beside）。",
+        answer: "Her dog is beside your husband."
+      },
+      {
+        question: "你的房子是在这个公园旁边（beside）。",
+        answer: "Your house is beside this park."
+      },
+      {
+        question: "你的房子是在这个公园旁边吗？",
+        answer: "Is Your house beside this park?"
+      },
+      {
+        question: "不，我的房子不是在这个公园旁边。",
+        answer: "No, my house is not beside this park."
+      },
+      {
+        question: "我的房子是在这个公园附近（near）。",
+        answer: "My house is near this park."
+      },
+      {
+        question: "那个气球是在这颗树下（below）。",
+        answer: "That balloon is below this tree."
+      },
+      {
+        question: "那个气球是在这颗树下吗?",
+        answer: "Is that balloon below this tree?"
+      },
+      {
+        question: "不，它不在。",
+        answer: "No, it is not."
+      },
+      {
+        question: "那个气球在这颗树的上方（above）。",
+        answer: "That balloon is above this tree."
+      },
+      {
+        question: "那只蝴蝶（butterfly）在他的头正上方（over）。",
+        answer: "That butterfly is over his hand."
+      },
+      {
+        question: "那只蝴蝶在他的头正上方吗？",
+        answer: "Is that butterfly over his hand?"
+      },
+      {
+        question: "不，它不在。",
+        answer: "No, it is not."
+      },
+      {
+        question: "那只蝴蝶在那张桌子的正下方（under）。",
+        answer: "That butterfly is under that desk."
+      },
+      {
+        question: "那只鸟在那颗树上（in）。",
+        answer: "That bird is in that tree."
+      },
+      {
+        question: "那只鸟在那颗树上吗？",
+        answer: "Is that bird in that tree?"
+      },
+      {
+        question: "不，它不在。",
+        answer: "No, it is not."
+      },
+      {
+        question: "那只鸟在哪个窗户旁边(beside)。",
+        answer: "That bird is beside that window."
+      }
+    ]
   },
   {
     lessonId: "18",
     title: "Lesson18 Whose疑问句的用法",
-    questions: []
+    questions: [
+      {
+        question: "那本书是谁的？",
+        answer: "Whose book is that?"
+      },
+      {
+        question: "这本书是谁的？",
+        answer: "Whose book is this?"
+      },
+      {
+        question: "你是谁的老师？",
+        answer: "Whose teacher are you?"
+      },
+      {
+        question: "他是谁的父亲？",
+        answer: "Whose father is he?"
+      },
+      {
+        question: "这些鸟是谁的？",
+        answer: "Whose birds are these?"
+      },
+      {
+        question: "这些鸡是谁的？",
+        answer: "Whose chickens are these?"
+      }
+    ]
   },
   {
     lessonId: "19",
     title: "Lesson19 单、复数名词的所有格表达",
-    questions: []
+    questions: [
+      {
+        question: "杰森的房间是小的。",
+        answer: "Jason's room is small."
+      },
+      {
+        question: "你学生的狗是大的。",
+        answer: "Your student's dog is big. "
+      },
+      {
+        question: "那只猫的尾巴（tail）是短的。",
+        answer: "That car's tail is short."
+      },
+      {
+        question: "他是我妹妹的朋友。",
+        answer: "He is my sister's friend."
+      },
+      {
+        question: "这个人是玛丽的司机。",
+        answer: "This person is Marry's driver."
+      }
+    ]
   },
   {
     lessonId: "20",
