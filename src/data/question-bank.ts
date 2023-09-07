@@ -88,7 +88,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "They are students."
       },
       {
-        question: "它们是小偷（thieves）。",
+        question: "他们是小偷（thieves）。",
         answer: "They are thieves."
       },
       {
@@ -244,7 +244,7 @@ export const questionBank: QuestionGroup[] = [
     title: "Lesson4 一般疑问句的用法",
     questions: [
       {
-        question: "你是忙碌的",
+        question: "你是忙碌的。",
         answer: "You are busy."
       },
       {
@@ -252,7 +252,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Are you busy?"
       },
       {
-        question: "她是矮的",
+        question: "她是矮的。",
         answer: "She is short."
       },
       {
@@ -260,7 +260,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Is she short?"
       },
       {
-        question: "我是高的",
+        question: "我是高的。",
         answer: "I am tall."
       },
       {
@@ -268,7 +268,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Am I tall?"
       },
       {
-        question: "这是一本书",
+        question: "这是一本书。",
         answer: "This is a book."
       },
       {
@@ -276,7 +276,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Is this a book?"
       },
       {
-        question: "他是一个高个子男孩",
+        question: "他是一个高个子男孩。",
         answer: "He is a tall boy."
       },
       {
@@ -284,7 +284,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Is he a tall boy?"
       },
       {
-        question: "他是一位聪明的老师",
+        question: "他是一位聪明的老师。",
         answer: "He is a smart teacher."
       },
       {
@@ -292,7 +292,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Is he a smart teacher?"
       },
       {
-        question: "那是只好狗",
+        question: "那是只好狗。",
         answer: "That is a good dog."
       },
       {
@@ -300,7 +300,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Is that a good dog?"
       },
       {
-        question: "这只狗是聪明的",
+        question: "这只狗是聪明的。",
         answer: "This dog is smart."
       },
       {
@@ -326,12 +326,12 @@ export const questionBank: QuestionGroup[] = [
         answer: "Yes, it is."
       },
       {
-        question: "是的，这是一本好书。",
+        question: "是的，它是一本好书。",
         answer: "Yes, it is a good book."
       },
       {
-        question: "哪只狗是聪明的。",
-        answer: "Which dog is smart."
+        question: "那只狗是聪明的。",
+        answer: "That dog is smart."
       },
       {
         question: "那只狗是聪明的吗？",
@@ -518,8 +518,8 @@ export const questionBank: QuestionGroup[] = [
         answer: "Yes, that is his house."
       },
       {
-        question: "那是她的书桌吗？",
-        answer: "Is that her desk?"
+        question: "那是她的书桌",
+        answer: "That is her desk."
       },
       {
         question: "那是她的书桌吗？",
@@ -611,11 +611,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "它的耳朵是红色的。",
-        answer: "It is ears are red."
+        answer: "Its ear is red."
       },
       {
         question: "它的耳朵是红色的吗？",
-        answer: "Are it is ears red?"
+        answer: "Is its ear red?"
       },
       {
         question: "我们的医生是忙碌的",
@@ -626,7 +626,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Is our doctor busy?"
       },
       {
-        question: "你们的钢琴是白色的。",
+        question: "你们的钢琴(piano)是白色的。",
         answer: "Your piano is white."
       },
       {
@@ -696,7 +696,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "My name is Jason."
       },
       {
-        question: "什么是她的名字。",
+        question: "什么是她的名字?",
         answer: "What is her name?"
       },
       {
@@ -854,7 +854,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "That farmer is thin because he is sick."
       },
       {
-        question: "你是虚弱的。",
+        question: "你是虚弱(weak)的。",
         answer: "You are weak."
       },
       {
@@ -914,15 +914,15 @@ export const questionBank: QuestionGroup[] = [
         answer: "He is a good doctor because he is kind."
       },
       {
-        question: "我的学生是聪明的。",
+        question: "我的学生们是聪明的。",
         answer: "My students are smart."
       },
       {
-        question: "我的学生是聪明的吗？",
+        question: "我的学生们是聪明的吗？",
         answer: "Are my students smart?"
       },
       {
-        question: "为什么我的学生是聪明的？",
+        question: "为什么我的学生们是聪明的？",
         answer: "Why are my students smart?"
       },
       {
@@ -1172,7 +1172,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Where are her parents?"
       },
       {
-        question: "我们的朋友在哪里？",
+        question: "我的朋友们在哪里？",
         answer: "Where are my friends?"
       },
       {
