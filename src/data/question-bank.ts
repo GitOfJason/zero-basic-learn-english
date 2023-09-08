@@ -1560,43 +1560,570 @@ export const questionBank: QuestionGroup[] = [
       {
         question: "这个人是玛丽的司机。",
         answer: "This person is Marry's driver."
+      },
+      {
+        question: "那些猫的尾巴是白色的。",
+        answer: "Those cats' tails are white."
+      },
+      {
+        question: "这些是我的老师的书。",
+        answer: "These are my teachers' books."
+      },
+      {
+        question: "那些是我的弟弟们的房间。",
+        answer: "Those are my brothers' rooms."
+      },
+      {
+        question: "这些小孩的手是干净的。",
+        answer: "These children's hands are clean."
+      },
+      {
+        question: "那些女人们的帽子是漂亮的。",
+        answer: "Those women's hats are beautiful."
+      },
+      {
+        question: "那些男人们的车是脏的。",
+        answer: "Those men's cars are dirty."
+      },
+      {
+        question: "那本书是谁的？",
+        answer: "Whose book is that?"
+      },
+      {
+        question: "那本书是她的。",
+        answer: "That book is hers"
+      },
+      {
+        question: "这本书是谁的？",
+        answer: "Whose book is this?"
+      },
+      {
+        question: "这本书是我的。",
+        answer: "This book is mine."
+      },
+      {
+        question: "这只狗是谁的？",
+        answer: "Whose dog is this?"
+      },
+      {
+        question: "这只狗是你的。",
+        answer: "This dog is yours."
+      },
+      {
+        question: "那只猫是谁的？",
+        answer: "Whose cat is that?"
+      },
+      {
+        question: "那只猫是他们。",
+        answer: "That cat is theirs."
+      },
+      {
+        question: "这些鸡是谁的?",
+        answer: "Whose chickens are these?"
+      },
+      {
+        question: "这些鸡是他的。",
+        answer: "These chickens are his."
+      },
+      {
+        question: "那些书是谁的?",
+        answer: "Whose books are those?"
+      },
+      {
+        question: "那些书是我们的。",
+        answer: "Those books are ours."
+      },
+      {
+        question: "这些花是谁的?",
+        answer: "Whose flowers are these?"
+      },
+      {
+        question: "这些花是你们的。",
+        answer: "These flowers are yours."
       }
     ]
   },
   {
     lessonId: "20",
     title: "Lesson20 Which疑问句的用法",
-    questions: []
+    questions: [
+      {
+        question: "哪一颗树是我们的数？",
+        answer: "Which is our tree?"
+      },
+      {
+        question: "那一个是你的小孩？",
+        answer: "Which is your child?"
+      },
+      {
+        question: "那一个是他的苹果？",
+        answer: "Which is his apple?"
+      },
+      {
+        question: "那一些是她的椅子？",
+        answer: "Which are her chairs?"
+      },
+      {
+        question: "那一些是你们的宠物？",
+        answer: "Which are your pets?"
+      },
+      {
+        question: "那一些是他们的钥匙？",
+        answer: "Which are their keys?"
+      },
+      {
+        question: "那一本书是你的？",
+        answer: "Which book is yours?"
+      },
+      {
+        question: "那一张椅子是他们的？",
+        answer: "Which chair is theirs?"
+      },
+      {
+        question: "哪一只蝴蝶是漂亮的？",
+        answer: "Which butterfly is beautiful?"
+      },
+      {
+        question: "哪一只猴子是在那颗树下？",
+        answer: "Which monkey is under that tree?"
+      },
+      {
+        question: "哪一些女孩是友善的？",
+        answer: "Which girls are friendly?"
+      },
+      {
+        question: "哪一些老师是生气的？",
+        answer: "Which teachers are angry?"
+      }
+    ]
   },
   {
     lessonId: "21",
     title: "Lesson21 定冠词the的用法及无生命的所有格",
-    questions: []
+    questions: [
+      {
+        question: "那个学生是贫穷的。",
+        answer: "The student is poor."
+      },
+      {
+        question: "这个医生是富有的。",
+        answer: "The doctor is rich."
+      },
+      {
+        question: "那只狗是虚弱的。",
+        answer: "The dog is weak."
+      },
+      {
+        question: "那些护士是有耐心（patient）的。",
+        answer: "The nurses are patient."
+      },
+      {
+        question: "这些人是错误的。",
+        answer: "The persons are wrong."
+      },
+      {
+        question: "篮子（basket）的把手（handle）是好的。",
+        answer: "The handle of basket is good."
+      },
+      {
+        question: "戒指（ring）的钻石（diamond）是漂亮的。",
+        answer: "The diamond of ring is beautiful."
+      },
+      {
+        question: "教室的墙壁是脏的。",
+        answer: "The walls of classroom are dirty"
+      },
+      {
+        question: "杯子(cup)的盖子(cap)是黑色的。",
+        answer: "The cap of cup is black."
+      },
+      {
+        question: "句子（sentence）中的单词（word）是错误的。",
+        answer: "The word of sentence is wrong."
+      },
+      {
+        question: "房间的钥匙是错的",
+        answer: "The key of room is wrong."
+      },
+      {
+        question: "毛巾（towel）上的污点（spot）是绿色的",
+        answer: "The spot of towel is green."
+      },
+      {
+        question: "表上的玻璃是新的",
+        answer: "The glass of watch is new."
+      }
+    ]
   },
   {
     lessonId: "22",
     title: "Lesson22 连词but，and，or的用法",
-    questions: []
+    questions: [
+      {
+        question: "那个杯子是新的，但它是脏的。",
+        answer: "The cup is new, but it is dirty."
+      },
+      {
+        question: "我的收音机是旧的，但它是好的。",
+        answer: "My radio is old, but it is good."
+      },
+      {
+        question: "那个男服务生是穷的，但他是亲切的(kind)。",
+        answer: "The waiter is poor, but he is kind."
+      },
+      {
+        question: "那个医生是富有的，但他是自私的。",
+        answer: "The doctor is rich, but he is selfish."
+      },
+      {
+        question: "这个花园是小的，但它是漂亮的。",
+        answer: "The garden is small, but it is beautiful."
+      },
+      {
+        question: "那个年轻人是有胖又脏的。",
+        answer: "The young person is fat and dirty."
+      },
+      {
+        question: "这只狗是又干净又聪明的。",
+        answer: "The dog is clean and smart."
+      },
+      {
+        question: "我们的父母是又生气又伤心的。",
+        answer: "Our parents are angry and sad."
+      },
+      {
+        question: "玛丽和杰森是好学生。",
+        answer: "Marry and Jason are good students"
+      },
+      {
+        question: "你妈妈和我姑姑（aunt）是女服务生。",
+        answer: "Your mother and my aunt are waitresses."
+      },
+      {
+        question: "这只猫和那只狗是懒惰的",
+        answer: "The cat and the dog are lazy."
+      },
+      {
+        question: "他们的卧室和厨房（kitchen）是脏的。",
+        answer: "Their bedroom and kitchen is dirty. "
+      },
+      {
+        question: "你的房间是小的而且你的房间是脏的。",
+        answer: "Your room is small, and your room is dirty."
+      },
+      {
+        question: "我的狗是大的而且我的狗是聪明的。",
+        answer: "My dog is big, and my dog is smart."
+      },
+      {
+        question: "那些小孩是干净的还脏的呢？",
+        answer: "Are those children clean or dirty?"
+      },
+      {
+        question: "那些是我们的或他们的笔呢？",
+        answer: "Are those pens ours or theirs?"
+      },
+      {
+        question: "这间卧室是我们的还是他们的？",
+        answer: "Is this bedroom ours or theirs?"
+      },
+      {
+        question: "这个手表是新的或是旧的？",
+        answer: "Is this watch new or old?"
+      },
+      {
+        question: "那间教室是大的还是小的呢？",
+        answer: "Is that classroom large or small?"
+      }
+    ]
   },
   {
     lessonId: "23",
     title: "Lesson23 连词although及so用法",
-    questions: []
+    questions: [
+      {
+        question: "虽然这架钢琴是好的，它是旧的",
+        answer: "Although the piano is good, it is old."
+      },
+      {
+        question: "虽然我的哥哥是聪明的，他是自私的",
+        answer: "Although my brother is smart, he is selfish."
+      },
+      {
+        question: "虽然那个新邮差是笨的，他是体贴（nice）的。",
+        answer: "Although the new postman is stupid, he is nice."
+      },
+      {
+        question: "虽然那个司机是健康的，他是瘦的。",
+        answer: "Although the driver is healthy, he is thin."
+      },
+      {
+        question: "这架钢琴是好的虽然它是旧的",
+        answer: "The piano is good although it is old."
+      },
+      {
+        question: "我的哥哥是自私的的虽然他是聪明的",
+        answer: "My brother is selfish although he is smart."
+      },
+      {
+        question: "那个新邮差是体贴的虽然他是笨的。",
+        answer: "The new postman is nice although he is stupid."
+      },
+      {
+        question: "那个司机是瘦的虽然他是健康的。",
+        answer: "The driver is thin although he is healthy."
+      },
+      {
+        question: "他是健康的，所以他是快乐的。",
+        answer: "He is healthy, so he is happy."
+      },
+      {
+        question: "她是生病的，所以她是疲倦的。",
+        answer: "She is sick, so she is tired."
+      },
+      {
+        question: "这个手表是好的，所以它是昂贵（expensive）的。",
+        answer: "The watch is good, so it is expensive."
+      },
+      {
+        question: "那架钢琴是旧的，所以它是便宜的。",
+        answer: "The piano is old, so it is cheap."
+      },
+      {
+        question: "那条狗是生病的，所以它是虚弱的。",
+        answer: "The dog is sick, so it is weak."
+      }
+    ]
   },
   {
     lessonId: "24",
     title: "Lesson24 There be 的用法与数字的写法",
-    questions: []
+    questions: [
+      {
+        question: "有一只鸟在你的桌上。",
+        answer: "There is a bird on your desk."
+      },
+      {
+        question: "有一只鸟在你的桌上吗？",
+        answer: "Is there a bird on your desk?"
+      },
+      {
+        question: "有一只猫在我们的桌上。",
+        answer: "There is a cat on our table."
+      },
+      {
+        question: "有一只猫在我们的桌上吗？",
+        answer: "Is there a cat on our table?"
+      },
+      {
+        question: "有一只狗在你的卧室里。",
+        answer: "There is a dog in your bedroom."
+      },
+      {
+        question: "有一只狗在你的卧室里吗？",
+        answer: "Is there a dog in your bedroom?"
+      },
+      {
+        question: "有一个年轻人在你的房子里。",
+        answer: "There is a young person in your house."
+      },
+      {
+        question: "有一个年轻人在你的房子里吗？",
+        answer: "Is there a young person in your house?"
+      },
+      {
+        question: "有一个婴儿在他们的房间里。",
+        answer: "There is a baby in their room."
+      },
+      {
+        question: "有一个婴儿在他们的房间里吗？",
+        answer: "Is there a baby in their room?"
+      },
+      {
+        question: "有3本书在你的书桌上。",
+        answer: "There are three books on your desk."
+      },
+      {
+        question: "有3本书在你的书桌上吗？",
+        answer: "Are there three books on your desk?"
+      },
+      {
+        question: "有16只猫在我们的餐桌上。",
+        answer: "There are sixteen cats on our table."
+      },
+      {
+        question: "有16只猫在我们的餐桌上吗？",
+        answer: "Are there sixteen cats on our table?"
+      },
+      {
+        question: "有47个年轻人在你的房子里。",
+        answer: "There are forty-seven young persons in your house."
+      },
+      {
+        question: "有47个年轻人在你的房子里吗？",
+        answer: "Are there forty-seven young persons in your house？"
+      },
+      {
+        question: "有89个鸡蛋在他们的厨房里。",
+        answer: "There are eighty-nine eggs in their kitchen."
+      },
+      {
+        question: "有89个鸡蛋在他们的厨房里吗？",
+        answer: "Are there eighty-nine eggs in their kitchen?"
+      },
+      {
+        question: "有115只狗在你的花园里。",
+        answer: "There are one-hundred and fifteen dogs in your garden."
+      },
+      {
+        question: "有115只狗在你的花园里吗？",
+        answer: "Are there one-hundred and fifteen dogs in your garden."
+      }
+    ]
   },
   {
     lessonId: "25",
     title: "Lesson25 动词have的用法及三大人称",
-    questions: []
+    questions: [
+      {
+        question: "我有一艘旧船（boat）。",
+        answer: "I have an old boat"
+      },
+      {
+        question: "有一艘旧船在车库（garage）里。",
+        answer: "There is an old boat in the garage."
+      },
+      {
+        question: "你有一把新刀。",
+        answer: "You have a new knife."
+      },
+      {
+        question: "有一把新刀在桌子下（under）。",
+        answer: "There is a new knife under the table."
+      },
+      {
+        question: "他有一条红色的领带（tie）。",
+        answer: "He has a red tie."
+      },
+      {
+        question: "有一条红色的领带在椅子上。",
+        answer: "There is red tie on the chair."
+      },
+      {
+        question: "她有两块漂亮的手表。",
+        answer: "She has tow beautiful watches."
+      },
+      {
+        question: "有两块漂亮的手表在厨房里",
+        answer: "There are tow beautiful watches in the kitchen."
+      },
+      {
+        question: "那个男孩有3个气球。",
+        answer: "The boy has three balloons."
+      },
+      {
+        question: "有3个气球在房子上面（above）。",
+        answer: "There are three balloons above the house."
+      },
+      {
+        question: "这个女孩有4条蓝色的裙子。",
+        answer: "The girl has four blue skirts."
+      },
+      {
+        question: "有4条蓝色的裙子在客厅里（living room）。",
+        answer: "There are four blue skirts in the living room."
+      },
+      {
+        question: "他们有11只老虎。",
+        answer: "Their have eleven tigers."
+      },
+      {
+        question: "有11只老虎在动物园里。",
+        answer: "There are eleven tigers in the zoo."
+      },
+      {
+        question: "我们有45只大象。",
+        answer: "We have forty-five elephants."
+      },
+      {
+        question: "有45只大象在（at）车站。",
+        answer: "There are forty-five elephants at the station."
+      },
+      {
+        question: "那些人有119辆公交车。",
+        answer: "The people have one-hundred and nineteen buses."
+      },
+      {
+        question: "有119辆公交车在工厂（factory）里。",
+        answer: "There are one-hundred and nineteen buses in the factory."
+      },
+      {
+        question: "这些小孩有4把新的雨伞(umbrella)。",
+        answer: "The children have four new umbrellas."
+      },
+      {
+        question: "有4把新雨伞在窗户旁边",
+        answer: "There are four new umbrellas beside the window."
+      },
+    ]
   },
   {
     lessonId: "26",
     title: "Lesson26 动词teach的用法、主格和宾格",
-    questions: []
+    questions: [
+      {
+        question: "我教你英文。",
+        answer: "I teach you English."
+      },
+      {
+        question: "你教我英文。",
+        answer: "You teach me English."
+      },
+      {
+        question: "他教他英文。",
+        answer: "He teaches him English."
+      },
+      {
+        question: "她教她数学（math）。",
+        answer: "She teaches her math."
+      },
+      {
+        question: "他教她数学。",
+        answer: "He teaches her math."
+      },
+      {
+        question: "我教你们历史（history）。",
+        answer: "I teach you history."
+      },
+      {
+        question: "他们教我们历史。",
+        answer: "They teach us history."
+      },
+      {
+        question: "你的老师教我们艺术（art）。",
+        answer: "Your teacher teaches us art."
+      },
+      {
+        question: "我的妈妈教你艺术。",
+        answer: "My mother teaches you art."
+      },
+      {
+        question: "她的姐姐教他们艺术。",
+        answer: "She sister teaches them art."
+      },
+      {
+        question: "你们的医生教我音乐。",
+        answer: "Your doctor teaches me music."
+      },
+      {
+        question: "我们的老师教他们音乐。",
+        answer: "Our teacher teaches them music."
+      },
+      {
+        question: "他们的爸爸教我们音乐。",
+        answer: "Their father teaches us music."
+      },
+    ]
   },
   {
     lessonId: "27",
