@@ -1376,7 +1376,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Yes, it is."
       },
       {
-        question: "为什么那本书在我的书坐上？",
+        question: "为什么那本书在我的书桌上？",
         answer: "Why is that book on my desk?"
       },
       {
@@ -1397,7 +1397,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "为什么那只狗是在她的餐桌上？",
-        answer: "Why is that dog on her table."
+        answer: "Why is that dog on her table?"
       },
       {
         question: "那只狗在她的餐桌上因为它是饿的。",
@@ -1447,7 +1447,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "你的房子是在这个公园旁边吗？",
-        answer: "Is Your house beside this park?"
+        answer: "Is your house beside this park?"
       },
       {
         question: "不，我的房子不是在这个公园旁边。",
@@ -1547,11 +1547,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "你学生的狗是大的。",
-        answer: "Your student's dog is big. "
+        answer: "Your student's dog is big."
       },
       {
         question: "那只猫的尾巴（tail）是短的。",
-        answer: "That car's tail is short."
+        answer: "That cat's tail is short."
       },
       {
         question: "他是我妹妹的朋友。",
