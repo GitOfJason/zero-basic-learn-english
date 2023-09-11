@@ -2064,7 +2064,7 @@ export const questionBank: QuestionGroup[] = [
       {
         question: "有4把新雨伞在窗户旁边",
         answer: "There are four new umbrellas beside the window."
-      },
+      }
     ]
   },
   {
@@ -2122,23 +2122,290 @@ export const questionBank: QuestionGroup[] = [
       {
         question: "他们的爸爸教我们音乐。",
         answer: "Their father teaches us music."
-      },
+      }
     ]
   },
   {
     lessonId: "27",
     title: "Lesson27 助动词Do和Does的用法",
-    questions: []
+    questions: [
+      {
+        question: "我教你英文。",
+        answer: "I teach you English."
+      },
+      {
+        question: "我教你英文吗？",
+        answer: "Do I teach you English?"
+      },
+      {
+        question: "你教我英文。",
+        answer: "You teach me English."
+      },
+      {
+        question: "你教我英文吗？",
+        answer: "Do you teach me English?"
+      },
+      {
+        question: "他教他英文。",
+        answer: "He teaches him English."
+      },
+      {
+        question: "他教他英文吗？",
+        answer: "Does he teach him English?"
+      },
+      {
+        question: "她教他数学。",
+        answer: "She teaches him math."
+      },
+      {
+        question: "她教他数学吗？",
+        answer: "Does she teach him math?"
+      },
+      {
+        question: "她教她数学。",
+        answer: "She teaches her math."
+      },
+      {
+        question: "她教她数学吗？",
+        answer: "Does she teach her math?"
+      },
+      {
+        question: "他教她数学。",
+        answer: "He teaches her math."
+      },
+      {
+        question: "他教她数学吗？",
+        answer: "Does he teach her math?"
+      },
+      {
+        question: "我教你历史。",
+        answer: "I teach you history."
+      },
+      {
+        question: "我教你历史吗？",
+        answer: "Do I teach you history?"
+      },
+      {
+        question: "他们教我们历史。",
+        answer: "They teach us history."
+      },
+      {
+        question: "他们教我们历史？",
+        answer: "Do they teach us history?"
+      },
+      {
+        question: "我们教他们历史。",
+        answer: "We teach them history."
+      },
+      {
+        question: "我们教他们历史吗？",
+        answer: "Do we teach them history?"
+      },
+      {
+        question: "你的老师教我们美术。",
+        answer: "Your teacher teaches us art."
+      },
+      {
+        question: "你的老师教我们美术吗？",
+        answer: "Does your teacher teach us art?"
+      },
+      {
+        question: "我妈妈教你们美术。",
+        answer: "My mother teaches you art."
+      },
+      {
+        question: "我妈妈教你们美术吗？",
+        answer: "Does my mother teach you art?"
+      },
+      {
+        question: "她姐姐教他们美术。",
+        answer: "Her sister teaches them art."
+      },
+      {
+        question: "她姐姐教他们美术吗？",
+        answer: "Does her sister teach them art?"
+      },
+      {
+        question: "你的医生教我音乐。",
+        answer: "Your doctor teaches me music."
+      },
+      {
+        question: "你的医生教我音乐吗？",
+        answer: "Do your doctor teach me music?"
+      },
+      {
+        question: "我们的老师教他们音乐。",
+        answer: "Our teacher teaches them music."
+      },
+      {
+        question: "我们的老师教他们音乐吗？",
+        answer: "Does our teacher teach them music?"
+      },
+      {
+        question: "他们的爸爸教我们音乐。",
+        answer: "Their father teaches us music."
+      },
+      {
+        question: "他们的爸爸教我们音乐吗？",
+        answer: "Does their father teach us music?"
+      }
+    ]
   },
   {
     lessonId: "28",
     title: "Lesson28 肯定回答的表达",
-    questions: []
+    questions: [
+      {
+        question: "我教你英文。",
+        answer: "I teach you English."
+      },
+      {
+        question: "我教你英文吗？",
+        answer: "Do I teach you English?"
+      },
+      {
+        question: "是的，你教。",
+        answer: "Yes, you do."
+      },
+      {
+        question: "你教我英文。",
+        answer: "You teach me English."
+      },
+      {
+        question: "你教我英文吗？",
+        answer: "Do you teach me English?"
+      },
+      {
+        question: "是的，我教。",
+        answer: "Yes, I do."
+      },
+      {
+        question: "他教她英文。",
+        answer: "He teaches her English."
+      },
+      {
+        question: "他教她英文吗？",
+        answer: "Does he teach her English?"
+      },
+      {
+        question: "是的，他教。",
+        answer: "Yes, he does."
+      },
+      {
+        question: "她教他数学。",
+        answer: "She teaches him math."
+      },
+      {
+        question: "她教他数学吗？",
+        answer: "Does she teach him math?"
+      },
+      {
+        question: "是的，她教。",
+        answer: "Yes, she does."
+      },
+      {
+        question: "他们教我们历史。",
+        answer: "They teach our history."
+      },
+      {
+        question: "他们教我们历史吗？",
+        answer: "Do they teach our history."
+      },
+      {
+        question: "是的，他们教。",
+        answer: "Yes, they do."
+      },
+      {
+        question: "我们教他们历史。",
+        answer: "We teach them history."
+      },
+      {
+        question: "我们教他们历史吗？",
+        answer: "Do we teach him history?"
+      },
+      {
+        question: "是的，我们教。",
+        answer: "Yes, we do."
+      },
+      {
+        question: "你们教他们历史。",
+        answer: "You teach them history."
+      },
+      {
+        question: "你们教他们历史吗？",
+        answer: "Do you teach them history?"
+      },
+      {
+        question: "是的，我们教。",
+        answer: "Yes, we do."
+      },
+    ]
   },
   {
     lessonId: "29",
     title: "Lesson29 否定句don't/doesn't的用法",
-    questions: []
+    questions: [
+      {
+        question: "你有一条狗吗？",
+        answer: "Do you have a dog?"
+      },
+      {
+        question: "不，我没有。",
+        answer: "No, I don't"
+      },
+      {
+        question: "我没有一条狗",
+        answer: "I don't have a dog."
+      },
+      {
+        question: "他有一只笔吗？",
+        answer: "Does he have a pen?"
+      },
+      {
+        question: "不，他没有。",
+        answer: "No, he doesn't."
+      },
+      {
+        question: "他没有一只笔。",
+        answer: "He doesn't have a pen."
+      },
+      {
+        question: "他教我们英文吗？",
+        answer: "Does he teaches us English?"
+      },
+      {
+        question: "不，他没有。",
+        answer: "No, he doesn't."
+      },
+      {
+        question: "他没有教我们英文。",
+        answer: "He doesn't teach us English."
+      },
+      {
+        question: "你爸爸教我们数学吗？",
+        answer: "Does your father teaches us math?"
+      },
+      {
+        question: "不，他没有。",
+        answer: "No, he doesn't."
+      },
+      {
+        question: "他没有教我们英文。",
+        answer: "He doesn't. teach us math."
+      },
+      {
+        question: "他们教你美术吗？",
+        answer: "Do they teach you art?"
+      },
+      {
+        question: "不，他们没有。",
+        answer: "No, they don't."
+      },
+      {
+        question: "他们没有教我美术。",
+        answer: "They don't teach me art."
+      },
+    ]
   },
   {
     lessonId: "30",
