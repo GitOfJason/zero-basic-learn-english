@@ -1648,35 +1648,35 @@ export const questionBank: QuestionGroup[] = [
     title: "Lesson20 Which疑问句的用法",
     questions: [
       {
-        question: "哪一颗树是我们的数？",
+        question: "哪一颗树是我们的树？",
         answer: "Which is our tree?"
       },
       {
-        question: "那一个是你的小孩？",
+        question: "哪一个是你的小孩？",
         answer: "Which is your child?"
       },
       {
-        question: "那一个是他的苹果？",
+        question: "哪一个是他的苹果？",
         answer: "Which is his apple?"
       },
       {
-        question: "那一些是她的椅子？",
+        question: "哪一些是她的椅子？",
         answer: "Which are her chairs?"
       },
       {
-        question: "那一些是你们的宠物？",
+        question: "哪一些是你们的宠物？",
         answer: "Which are your pets?"
       },
       {
-        question: "那一些是他们的钥匙？",
+        question: "哪一些是他们的钥匙？",
         answer: "Which are their keys?"
       },
       {
-        question: "那一本书是你的？",
+        question: "哪一本书是你的？",
         answer: "Which book is yours?"
       },
       {
-        question: "那一张椅子是他们的？",
+        question: "哪一张椅子是他们的？",
         answer: "Which chair is theirs?"
       },
       {
@@ -1731,7 +1731,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "教室的墙壁是脏的。",
-        answer: "The walls of classroom are dirty"
+        answer: "The walls of classroom are dirty."
       },
       {
         question: "杯子(cup)的盖子(cap)是黑色的。",
@@ -2007,7 +2007,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "有一条红色的领带在椅子上。",
-        answer: "There is red tie on the chair."
+        answer: "There is a red tie on the chair."
       },
       {
         question: "她有两块漂亮的手表。",
