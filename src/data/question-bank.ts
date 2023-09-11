@@ -1591,7 +1591,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "那本书是她的。",
-        answer: "That book is hers"
+        answer: "That book is hers."
       },
       {
         question: "这本书是谁的？",
@@ -1614,7 +1614,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Whose cat is that?"
       },
       {
-        question: "那只猫是他们。",
+        question: "那只猫是他们的。",
         answer: "That cat is theirs."
       },
       {
@@ -1750,7 +1750,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "The spot of towel is green."
       },
       {
-        question: "表上的玻璃是新的",
+        question: "表上的玻璃是新的。",
         answer: "The glass of watch is new."
       }
     ]
@@ -1793,7 +1793,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "玛丽和杰森是好学生。",
-        answer: "Marry and Jason are good students"
+        answer: "Marry and Jason are good students."
       },
       {
         question: "你妈妈和我姑姑（aunt）是女服务生。",
@@ -1805,7 +1805,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "他们的卧室和厨房（kitchen）是脏的。",
-        answer: "Their bedroom and kitchen is dirty. "
+        answer: "Their bedroom and kitchen is dirty."
       },
       {
         question: "你的房间是小的而且你的房间是脏的。",
@@ -1816,7 +1816,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "My dog is big, and my dog is smart."
       },
       {
-        question: "那些小孩是干净的还脏的呢？",
+        question: "那些小孩是干净的还是脏的呢？",
         answer: "Are those children clean or dirty?"
       },
       {
@@ -1961,7 +1961,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "有47个年轻人在你的房子里吗？",
-        answer: "Are there forty-seven young persons in your house？"
+        answer: "Are there forty-seven young persons in your house?"
       },
       {
         question: "有89个鸡蛋在他们的厨房里。",
@@ -1977,7 +1977,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "有115只狗在你的花园里吗？",
-        answer: "Are there one-hundred and fifteen dogs in your garden."
+        answer: "Are there one-hundred and fifteen dogs in your garden?"
       }
     ]
   },
@@ -1987,7 +1987,7 @@ export const questionBank: QuestionGroup[] = [
     questions: [
       {
         question: "我有一艘旧船（boat）。",
-        answer: "I have an old boat"
+        answer: "I have an old boat."
       },
       {
         question: "有一艘旧船在车库（garage）里。",
@@ -2035,7 +2035,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "他们有11只老虎。",
-        answer: "Their have eleven tigers."
+        answer: "They have eleven tigers."
       },
       {
         question: "有11只老虎在动物园里。",
