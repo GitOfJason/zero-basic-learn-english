@@ -2338,7 +2338,7 @@ export const questionBank: QuestionGroup[] = [
       {
         question: "是的，我们教。",
         answer: "Yes, we do."
-      },
+      }
     ]
   },
   {
@@ -2404,23 +2404,238 @@ export const questionBank: QuestionGroup[] = [
       {
         question: "他们没有教我美术。",
         answer: "They don't teach me art."
-      },
+      }
     ]
   },
   {
     lessonId: "30",
     title: "Lesson30 形容词many/much的用法",
-    questions: []
+    questions: [
+      {
+        question: "我有许多鸟。",
+        answer: "I have many birds."
+      },
+      {
+        question: "有许多鸟在树上。",
+        answer: "There are many birds in the tree."
+      },
+      {
+        question: "他有许多书。",
+        answer: "He has many books."
+      },
+      {
+        question: "有许多书在我房间里。",
+        answer: "There are many books in my room."
+      },
+      {
+        question: "你有许多椅子。",
+        answer: "You have many chairs."
+      },
+      {
+        question: "有许多椅子在树下。",
+        answer: "There are many chairs under the tree."
+      },
+      {
+        question: "我们有许多猴子。",
+        answer: "We have many monkeys."
+      },
+      {
+        question: "有许多猴子在动物园里。",
+        answer: "There are many monkeys in the zoo."
+      },
+      {
+        question: "你们有许多学生。",
+        answer: "You have many students."
+      },
+      {
+        question: "有许多学生在教室里。",
+        answer: "There are many students in the classroom."
+      },
+      {
+        question: "时间是金钱。",
+        answer: "Time is money."
+      },
+      {
+        question: "他有许多钱。",
+        answer: "He has much money."
+      },
+      {
+        question: "有许多钱在我的房子里。",
+        answer: "There is much money in my house."
+      },
+      {
+        question: "我喝许多牛奶。",
+        answer: "I drink much milk."
+      },
+      {
+        question: "有许多水在水池里（pool）。",
+        answer: "There is much water in the pool."
+      },
+      {
+        question: "有许多啤酒（beer）在厨房里。",
+        answer: "There is much beer in the kitchen."
+      }
+    ]
   },
   {
     lessonId: "31",
     title: "Lesson31 疑问词及连词When的用法",
-    questions: []
+    questions: [
+      {
+        question: "他何时教我英文？",
+        answer: "When does he teach me English?"
+      },
+      {
+        question: "你何时教她英文？",
+        answer: "When do you teach her English?"
+      },
+      {
+        question: "他何时教我们英文？",
+        answer: "When does he teach us English?"
+      },
+      {
+        question: "你有什么东西？",
+        answer: "What do you have?"
+      },
+      {
+        question: "他有什么东西？",
+        answer: "What does he have?"
+      },
+      {
+        question: "你在哪里教他？",
+        answer: "Where do you teach him?"
+      },
+      {
+        question: "他在哪里教你们？",
+        answer: "Where does he teach you?"
+      },
+      {
+        question: "为什么你教我们英文？",
+        answer: "Why do you teach us English?"
+      },
+      {
+        question: "为什么我教他们英文？",
+        answer: "Why do I teach them English?"
+      },
+      {
+        question: "他如何教我历史？",
+        answer: "How does he teach me history?"
+      },
+      {
+        question: "你们如何教她历史？",
+        answer: "How do you teach her history?"
+      },
+      {
+        question: "当他是忙碌的，他是生气的。",
+        answer: "When he is busy, he is angry."
+      },
+      {
+        question: "当那只鸟在树上，它是快乐的。",
+        answer: "When that bird in the tree, it is happy."
+      },
+      {
+        question: "当那只猴子在我的花园玩，它是快乐的。",
+        answer: "When that monkey plays in my garden, it is happy."
+      },
+      {
+        question: "当李先生教玛丽英文，她是快乐的。",
+        answer: "When Mr.Lee teaches Marry English, she is happy."
+      },
+      {
+        question: "他是生气的当他是忙碌的。",
+        answer: "He is angry when he is busy."
+      },
+      {
+        question: "那只鸟是快乐的当它在树上。",
+        answer: "The bird is happy when it is in the tree."
+      },
+      {
+        question: "这只猴子是快乐的当它在我的花园里玩。",
+        answer: "The monkey is happy when it plays in my garden."
+      },
+      {
+        question: "玛丽是开心的当李先生教她英文。",
+        answer: "Marry is happy when Mr.Lee teaches her English."
+      }
+    ]
   },
   {
     lessonId: "32",
     title: "Lesson32 疑问词How的其他用法",
-    questions: []
+    questions: [
+      {
+        question: "有多少学生在你的学校里？",
+        answer: "How many students are there in your school?"
+      },
+      {
+        question: "有93个学生在我的学校里。",
+        answer: "There are ninety-three students in my school."
+      },
+      {
+        question: "你教多少学生？",
+        answer: "How many students do you teach?"
+      },
+      {
+        question: "我教27个学生。",
+        answer: "I teach twenty-seven students."
+      },
+      {
+        question: "她教多少学生？",
+        answer: "How many students does she teach?"
+      },
+      {
+        question: "她教31个学生。",
+        answer: "She teaches thirty-one students."
+      },
+      {
+        question: "有多少啤酒在汽车里？",
+        answer: "How much beer is there in the car?"
+      },
+      {
+        question: "我不知道。",
+        answer: "I don't know."
+      },
+      {
+        question: "你喝多少啤酒？",
+        answer: "How much beer do you drink?"
+      },
+      {
+        question: "他喝多少啤酒？",
+        answer: "How much beer does he drink?"
+      },
+      {
+        question: "你有多少钱？",
+        answer: "How much money do you have?"
+      },
+      {
+        question: "他有多少钱？",
+        answer: "How much money does he have?"
+      },
+      {
+        question: "我不知道因为我是醉的（drunken）。",
+        answer: "I don't know because I am drunken."
+      },
+      {
+        question: "你多久一次教他们音乐？",
+        answer: "How often do you teach them music?"
+      },
+      {
+        question: "你的妈妈多久教你一次？",
+        answer: "How often does your mother teach you?"
+      },
+      {
+        question: "你多久一次教他们数学？",
+        answer: "How often do you teach them math?"
+      },
+      {
+        question: "她多久一次教我们美术？",
+        answer: "How often does she teach us art?"
+      },
+      {
+        question: "他们多久一次喝酒",
+        answer: "How often do they drink?"
+      }
+    ]
   },
   {
     lessonId: "33",
