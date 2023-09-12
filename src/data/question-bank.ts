@@ -2011,11 +2011,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "她有两块漂亮的手表。",
-        answer: "She has tow beautiful watches."
+        answer: "She has two beautiful watches."
       },
       {
         question: "有两块漂亮的手表在厨房里",
-        answer: "There are tow beautiful watches in the kitchen."
+        answer: "There are two beautiful watches in the kitchen."
       },
       {
         question: "那个男孩有3个气球。",
