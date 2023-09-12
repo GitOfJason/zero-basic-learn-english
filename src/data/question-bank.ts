@@ -2014,7 +2014,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "She has two beautiful watches."
       },
       {
-        question: "有两块漂亮的手表在厨房里",
+        question: "有两块漂亮的手表在厨房里。",
         answer: "There are two beautiful watches in the kitchen."
       },
       {
@@ -2231,7 +2231,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "你的医生教我音乐吗？",
-        answer: "Do your doctor teach me music?"
+        answer: "Does your doctor teach me music?"
       },
       {
         question: "我们的老师教他们音乐。",
@@ -2305,11 +2305,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "他们教我们历史。",
-        answer: "They teach our history."
+        answer: "They teach we history."
       },
       {
         question: "他们教我们历史吗？",
-        answer: "Do they teach our history."
+        answer: "Do they teach us history?"
       },
       {
         question: "是的，他们教。",
@@ -2321,7 +2321,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "我们教他们历史吗？",
-        answer: "Do we teach him history?"
+        answer: "Do we teach them history?"
       },
       {
         question: "是的，我们教。",
@@ -2351,7 +2351,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "不，我没有。",
-        answer: "No, I don't"
+        answer: "No, I don't."
       },
       {
         question: "我没有一条狗",
@@ -2371,7 +2371,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "他教我们英文吗？",
-        answer: "Does he teaches us English?"
+        answer: "Does he teach us English?"
       },
       {
         question: "不，他没有。",
@@ -2383,7 +2383,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "你爸爸教我们数学吗？",
-        answer: "Does your father teaches us math?"
+        answer: "Does your father teach us math?"
       },
       {
         question: "不，他没有。",
