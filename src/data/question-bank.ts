@@ -2632,7 +2632,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "How often does she teach us art?"
       },
       {
-        question: "他们多久一次喝酒",
+        question: "他们多久一次喝酒？",
         answer: "How often do they drink?"
       }
     ]
@@ -2640,42 +2640,710 @@ export const questionBank: QuestionGroup[] = [
   {
     lessonId: "33",
     title: "Lesson33 及物动词与不及物动词",
-    questions: []
+    questions: [
+      {
+        question: "我喜欢那辆蓝色的公交车",
+        answer: "I like that blue bus."
+      },
+      {
+        question: "你喜欢那辆蓝色的公交车吗？",
+        answer: "Do you like that blue bus?"
+      },
+      {
+        question: "是的，我喜欢。",
+        answer: "Yes, I like it."
+      },
+      {
+        question: "为什么你喜欢那辆蓝色的公交车？",
+        answer: "Why do you like that blue bus?"
+      },
+      {
+        question: "我喜欢那辆蓝色的公交车因为它是漂亮的。",
+        answer: "I like that blue bus because it is beautiful."
+      },
+      {
+        question: "我喜欢那个花园。",
+        answer: "I like that garden."
+      },
+      {
+        question: "你喜欢那个花园吗？",
+        answer: "Do you like that garden?"
+      },
+      {
+        question: "我喜欢那个花园因为有许多花在哪个花园里。",
+        answer: "I like that garden because there are many flowers in that garden."
+      },
+    ]
   },
   {
     lessonId: "34",
     title: "Lesson34 动词不定式的用法",
-    questions: []
+    questions: [
+      {
+        question: "我喜欢散步。",
+        answer: "I like to walk."
+      },
+      {
+        question: "我喜欢在那个公园里散步。",
+        answer: "I like to walk in the park."
+      },
+      {
+        question: "他喜欢跑步。",
+        answer: "He likes to run."
+      },
+      {
+        question: "他喜欢在这个森林（forest）里跑步。",
+        answer: "He likes to run in the forest."
+      },
+      {
+        question: "她喜欢游泳。",
+        answer: "She likes to swim."
+      },
+      {
+        question: "她喜欢在哪个泳池里游泳。",
+        answer: "She likes to swim in that pool"
+      },
+      {
+        question: "他们喜欢玩耍。",
+        answer: "They like to play."
+      },
+      {
+        question: "他们喜欢在我的学校里玩耍。",
+        answer: "They like to play in my school."
+      },
+      {
+        question: "杰森的父亲喜欢教我们英文。",
+        answer: "Jason's father likes to teach us English."
+      },
+      {
+        question: "杰森的父亲喜欢在他的客厅里教我们英文。",
+        answer: "Jason's father likes to teach us English in his living room."
+      },
+      {
+        question: "他喜欢散步而且他喜欢游泳。",
+        answer: "He likes to walk and he likes to swim."
+      },
+      {
+        question: "他喜欢散步和游泳。",
+        answer: "He likes to walk and swim."
+      },
+      {
+        question: "我喜欢唱歌而且我喜欢开车。",
+        answer: "I like to sing and I like to driver."
+      },
+      {
+        question: "我喜欢唱歌和开车。",
+        answer: "I like to sing and driver."
+      },
+      {
+        question: "你喜欢学习（learn）而且你喜欢工作。",
+        answer: "You like to learn and you like to work."
+      },
+      {
+        question: "你喜欢学习和工作。",
+        answer: "You like to learn and work."
+      },
+      {
+        question: "那些猫喜欢吃而且那些猫喜欢睡。",
+        answer: "Those cats like to eat and those cats like to sleep."
+      },
+      {
+        question: "那些猫喜欢吃和睡。",
+        answer: "Those cats like to eat and sleep."
+      },
+    ]
   },
   {
     lessonId: "35",
     title: "Lesson35 频率副词的用法",
-    questions: []
+    questions: [
+      {
+        question: "她的房子总是脏的。",
+        answer: "Her house is always dirty."
+      },
+      {
+        question: "她的钢琴常常是脏的。",
+        answer: "Her piano is often dirty."
+      },
+      {
+        question: "这个年轻人通常是虚弱。",
+        answer: "The young person is usually weak."
+      },
+      {
+        question: "那个邮差有时候是忙碌的。",
+        answer: "The postman is sometimes busy."
+      },
+      {
+        question: "他们的父母很少是仁慈的。",
+        answer: "Their parents are seldom kind."
+      },
+      {
+        question: "虽然那位绅士（gentleman）是富有的，他从不懒惰的。",
+        answer: "Although that gentleman is rich, he is never lazy."
+      },
+      {
+        question: "他们经常伤心的因为他们是常常生病的。",
+        answer: "They are usually sad because they are often sick."
+      },
+      {
+        question: "他女儿总是在房间里玩。",
+        answer: "His daughter always plays in the room."
+      },
+      {
+        question: "玛丽从不微笑。",
+        answer: "Marry never smiles"
+      },
+      {
+        question: "我妈妈很少在客厅里喝酒。",
+        answer: "My mother seldom drinks in the living room."
+      },
+      {
+        question: "那个老师经常在办公室里画画。",
+        answer: "That teacher usually draws in the office."
+      },
+      {
+        question: "你父亲有时候在这个泳池游泳。",
+        answer: "Your father sometimes swims in the pool."
+      },
+      {
+        question: "他常常教我英文。",
+        answer: "He often teaches use English."
+      },
+      {
+        question: "那个学生有时是懒惰的。",
+        answer: "That student is sometimes lazy."
+      },
+      {
+        question: "有时那个学生是懒惰的。",
+        answer: "Sometimes that student is lazy."
+      },
+      {
+        question: "那个老师有时候教我们英文。",
+        answer: "That teacher sometimes teaches us English."
+      },
+      {
+        question: "有时那个老师教我们英文。",
+        answer: "Sometimes that teacher teaches us English."
+      },
+    ]
   },
   {
     lessonId: "36",
     title: "Lesson36 方式副词的构成方式和用法",
-    questions: []
+    questions: [
+      {
+        question: "你妹妹跑得快。",
+        answer: "Your sister runs quickly."
+      },
+      {
+        question: "你妹妹跑得快吗？",
+        answer: "Does your sister run quickly?"
+      },
+      {
+        question: "我哥哥走的慢。",
+        answer: "My brother walks slowly."
+      },
+      {
+        question: "我哥哥走得慢吗？",
+        answer: "Does my brother walk slowly?"
+      },
+      {
+        question: "她伤心地唱歌。",
+        answer: "She sings sadly."
+      },
+      {
+        question: "她伤心地唱歌吗？",
+        answer: "Does she sing sadly?"
+      },
+      {
+        question: "那个女孩打扮得很漂亮。",
+        answer: "That girl dresses beautifully."
+      },
+      {
+        question: "那个女孩打扮得很漂亮吗？",
+        answer: "Does that girl dress beautifully?"
+      },
+      {
+        question: "那个学生快乐地学习。",
+        answer: "That student learns happily."
+      },
+      {
+        question: "那个学生快乐地学习吗？",
+        answer: "Does that student learn happily?"
+      },
+      {
+        question: "那个老人饥饿地工作。",
+        answer: "That old man works hungrily."
+      },
+      {
+        question: "那个老人饥饿地工作吗？",
+        answer: "Does that old man work hungrily?"
+      },
+      {
+        question: "那个司机忙碌地开车。",
+        answer: "That driver drives busily."
+      },
+      {
+        question: "那个司机忙碌地开车吗？",
+        answer: "Does that driver drive busily?"
+      },
+      {
+        question: "那个女孩生气地哭泣。",
+        answer: "That girl cries angrily."
+      },
+      {
+        question: "那个女孩生气地哭泣吗？",
+        answer: "Does that girl cry angrily?"
+      },
+      {
+        question: "那只鸟飞得快。",
+        answer: "That bird flies fast."
+      },
+      {
+        question: "为什么那只鸟飞得快？",
+        answer: "Why does that bird fly fast?"
+      },
+      {
+        question: "那个农夫早工作。",
+        answer: "That farmer works early."
+      },
+      {
+        question: "为什么那个农夫早工作？",
+        answer: "Why does that farmer work early?"
+      },
+      {
+        question: "那个男孩晚到达（arrive）。",
+        answer: "That boy arrives late."
+      },
+      {
+        question: "为什么那个男孩晚到达（arrive）？",
+        answer: "Why does that boy arrive late?"
+      },
+      {
+        question: "你朋友努力地工作。",
+        answer: "Your friend works hard."
+      },
+      {
+        question: "为什么你朋友努力地工作？",
+        answer: "Why does your friend work hard?"
+      },
+      {
+        question: "我妹妹唱得好。",
+        answer: "My sister sings well."
+      },
+      {
+        question: "为什么我妹妹唱得好？",
+        answer: "Why does my sister sing well?"
+      },
+      {
+        question: "那个老师英文教得好。",
+        answer: "That teacher teaches English well."
+      },
+      {
+        question: "为什么那个老师英文教得好？",
+        answer: "Wy does that teacher teach English well?"
+      },
+      {
+        question: "这个学生画得差？",
+        answer: "The student draws badly."
+      },
+      {
+        question: "为什么这个学生画得差？",
+        answer: "Why does the student draw badly?"
+      },
+    ]
   },
   {
     lessonId: "37",
     title: "Lesson37 地点副词及时间副词的用法",
-    questions: []
+    questions: [
+      {
+        question: "她常常来这里。",
+        answer: "She often comes here."
+      },
+      {
+        question: "她常常来这里吗？",
+        answer: "Does she often come here?"
+      },
+      {
+        question: "为什么她常常来这里？",
+        answer: "Why does she often come here?"
+      },
+      {
+        question: "她常常来这里应为她喜欢这里。",
+        answer: "She often comes here because she likes it here."
+      },
+      {
+        question: "他总是去那里。",
+        answer: "He always goes there."
+      },
+      {
+        question: "他总是去那里吗？",
+        answer: "Does he always go there?"
+      },
+      {
+        question: "他总是去那里应为他不喜欢来这里。",
+        answer: "He always goes there because He doesn't like to come here."
+      },
+      {
+        question: "我们今天学英文。",
+        answer: "We learn English today."
+      },
+      {
+        question: "我们今天学英文吗？",
+        answer: "Do we learn English today?"
+      },
+      {
+        question: "我们今天何时学英文？",
+        answer: "When do we learn English today?"
+      },
+      {
+        question: "我们今晚唱歌。",
+        answer: "We sing tonight."
+      },
+      {
+        question: "我们今晚唱歌吗？",
+        answer: "Do we sing tonight."
+      },
+      {
+        question: "我们今晚何时唱歌吗？",
+        answer: "When do we sing tonight."
+      },
+      {
+        question: "他现在是虚弱的。",
+        answer: "He is weak now."
+      },
+      {
+        question: "他现在是虚弱的吗？",
+        answer: "Is he weak now?"
+      },
+      {
+        question: "为什么他现在是虚弱的？",
+        answer: "Why is he weak now?"
+      },
+      {
+        question: "他来得早。",
+        answer: "He comes early."
+      },
+      {
+        question: "他来得早吗？",
+        answer: "Does he come early?"
+      },
+      {
+        question: "他来得早吗？",
+        answer: "Why does he come early?"
+      },
+      {
+        question: "她来得晚。",
+        answer: "She comes late."
+      },
+      {
+        question: "她来得晚吗？",
+        answer: "Does she come late?"
+      },
+      {
+        question: "为什么她来得晚？",
+        answer: "Why does she come late?"
+      },
+      {
+        question: "我们今晚在这里唱歌。",
+        answer: "We sing here tonight."
+      },
+      {
+        question: "我们今天在哪里学英文。",
+        answer: "We learn English there today."
+      },
+      {
+        question: "她现在在这里。",
+        answer: "She is here now."
+      },
+      {
+        question: "他早去那里。",
+        answer: "He goes there early."
+      },
+      {
+        question: "她晚来这里。",
+        answer: "She comes here late."
+      },
+    ]
   },
   {
     lessonId: "38",
     title: "Lesson38 程度副词的用法",
-    questions: []
+    questions: [
+      {
+        question: "这架钢琴是非常好的，但它很旧。",
+        answer: "This piano is very good, but it is very old."
+      },
+      {
+        question: "我的哥哥是非常聪明的，但他很自私。",
+        answer: "My brother is very smart, but he is selfish."
+      },
+      {
+        question: "那个农夫是非常笨的，但他很体贴。",
+        answer: "That farmer is very stupid, but he is nice."
+      },
+      {
+        question: "虽然这只狗非常小，它跑得很快。",
+        answer: "Although the dog is very small,it runs very fast."
+      },
+      {
+        question: "那个学生是非常聪明的，因为他学得很快。",
+        answer: "That student is very smart because she learns very quickly."
+      },
+      {
+        question: "我非常喜欢那个女孩，因为她很可爱。",
+        answer: "I like the girl very much because she is very cute."
+      },
+      {
+        question: "我非常喜欢那只鸟，因为它唱得很好。",
+        answer: "I like that bird very much because it sings very well."
+      },
+      {
+        question: "我的妈妈也是非常生气。",
+        answer: "My mother is also very angry."
+      },
+      {
+        question: "你的妈妈也是非常生气的吗？",
+        answer: "Is your mother very angry too?"
+      },
+      {
+        question: "他也有一台收音机。",
+        answer: "He also has a radio."
+      },
+      {
+        question: "他也有一台收音机吗？",
+        answer: "Does he have a radio too?"
+      },
+      {
+        question: "我也喜欢在这里唱歌。",
+        answer: "I also like to sing here."
+      },
+      {
+        question: "你也喜欢在这里唱歌吗？",
+        answer: "Do you like to sing here too?"
+      },
+      {
+        question: "我也在哪里教美术。",
+        answer: "I also teach art there."
+      },
+      {
+        question: "你也在哪里教美术吗？",
+        answer: "Do you teach art there too?"
+      },
+      {
+        question: "我姐姐也不喜欢看电视。",
+        answer: "My sister doesn't like to watch TV either."
+      },
+      {
+        question: "他们也不喜欢在那个公园玩。",
+        answer: "They don't like to play in the park either."
+      },
+      {
+        question: "有多少鸟在我的书桌上？",
+        answer: "How many birds are there on my desk?"
+      },
+      {
+        question: "大约有10只鸟在你的书桌上。",
+        answer: "There are about ten birds on your desk."
+      },
+      {
+        question: "你有多少手表？",
+        answer: "How many watches do you have?"
+      },
+      {
+        question: "我大约有7块手表。",
+        answer: "I have about seven watches."
+      },
+      {
+        question: "有多少学生在哪个学校？",
+        answer: "How many students are there in the school?"
+      },
+      {
+        question: "大约有360个学生在哪个学校。",
+        answer: "There are about three hundred and sixty students in that school."
+      },
+      {
+        question: "你教多少学生？",
+        answer: "How many students do you teach?"
+      },
+      {
+        question: "我在哪里教大约40个学生。",
+        answer: "I teach about forty students there."
+      },
+      {
+        question: "今天教室里只有3个人。",
+        answer: "There are only three persons in the classroom today."
+      },
+      {
+        question: "这里现在只有两小孩。",
+        answer: "There are only tow children here now."
+      },
+      {
+        question: "我只有一个棒球（baseball）。",
+        answer: "I only have a baseball."
+      },
+      {
+        question: "他只喜欢在大海（ocean）里游泳。",
+        answer: "He only likes to swim in the ocean."
+      },
+      {
+        question: "这个小孩现在只想要那个玩具。",
+        answer: "The child only wants that toy now."
+      },
+    ]
   },
   {
     lessonId: "39",
     title: "Lesson39 常和动词搭配的介词to/with/for",
-    questions: []
+    questions: [
+      {
+        question: "那些狗常跑向公园。",
+        answer: "Those dogs often run to the park."
+      },
+      {
+        question: "为什么那些狗常跑向公园？",
+        answer: "Why do those dogs often run to the park?"
+      },
+      {
+        question:"它们常跑向公园因为它们喜欢那里。",
+        answer: "They often run to the park because they like it there。"
+      },
+      {
+        question:"我常常去车站。",
+        answer: "I often go to the station."
+      },
+      {
+        question:"为什你常常去车站？",
+        answer: "Why do you often go to the station?"
+      },
+      {
+        question:"我常去车站因为我的母亲在那里工作。",
+        answer: "I often go to the station because my mother works there."
+      },
+      {
+        question:"那个胖司机很少来我的餐厅（restaurant）。",
+        answer: "That fat driver seldom comes to my restaurant."
+      },
+      {
+        question:"为什么那个胖司机很少去你的餐厅（restaurant）？",
+        answer: "Why does that fat driver seldom go to your restaurant?"
+      },
+      {
+        question:"他很少来我的餐厅因为我的餐厅是非常小的。",
+        answer: "He seldom comes to my restaurant because my restaurant is very small."
+      },
+      {
+        question:"那个医生经常很晚回家。",
+        answer: "That doctor usually goes home late."
+      },
+      {
+        question:"我的弟弟总是很早上床睡觉。",
+        answer: "My brother always goes to bad early."
+      },
+      {
+        question:"那个学生总是很早上学。",
+        answer: "That student always goes to school early."
+      },
+      {
+        question:"我经常和他游泳。",
+        answer: "I often swim with him."
+      },
+      {
+        question:"为什么你经常和他游泳？",
+        answer: "Why do you often swim with him?"
+      },
+      {
+        question:"因为他游得非常快，我想要学习他的技巧（skill）。",
+        answer: "Because he swims very quickly, I want to learn his skill."
+      },
+      {
+        question:"我很少和他喝酒。",
+        answer: "I seldom drink with him."
+      },
+      {
+        question:"为什么你很少和他喝酒？",
+        answer: "Why do you seldom drink with him?"
+      },
+      {
+        question:"我很少和他喝酒应为他总是喜欢大声地（loudly）唱歌。",
+        answer: "I seldom drink with him because he always likes to sing loudly."
+      },
+      {
+        question:"这些花是给你的.",
+        answer: "These flowers are for you."
+      },
+      {
+        question:"这些花是给我的吗？",
+        answer: "Are these flowers for me?"
+      },
+      {
+        question:"是的，它们是的",
+        answer: "Yes, they are."
+      },
+      {
+        question:"为什么这些花是给我的？",
+        answer: "Why are these flowers for me?"
+      },
+      {
+        question:"因为我喜欢你。",
+        answer: "Because I like you."
+      },
+      {
+        question:"那本英文书是给我的吗？",
+        answer: "Is that English book for me?"
+      },
+      {
+        question:"是的，它是的",
+        answer: "Yes, it is."
+      },
+      {
+        question:"为什么那本英文书是给我的？",
+        answer: "Why is that English book for me?"
+      },
+      {
+        question:"因为我不想教你英文了。",
+        answer: "Because I don't want to teach English for you."
+      },
+    ]
   },
   {
     lessonId: "40",
     title: "Lesson40 连词if的用法及have to的用法",
-    questions: []
+    questions: [
+      {
+        question:"为什么我妹妹英语说得非常差？",
+        answer: "Why does my sister speak English very badly?"
+      },
+      {
+        question:"她英语说得非常差因为她是非常懒惰的。",
+        answer: "She speaks English very badly because she is very lazy."
+      },
+      {
+        question:"如果你妹妹想要说好英语，她必须努力学习。",
+        answer: "If your sister wants to speak English well, she have to study hard."
+      },
+      {
+        question:"我想要和杰森在客厅里玩。",
+        answer: "I want to play with Jason in the living room."
+      },
+      {
+        question:"如果你想和杰森玩，你现在必须打扫你的卧室。",
+        answer: "If you want to play with Jason, you have to clean your bedroom now."
+      },
+      {
+        question:"你教得好吗？",
+        answer: "Do you teach well?"
+      },
+      {
+        question:"是的，我教得非常好。",
+        answer: "Yes, I teach very well."
+      },
+      {
+        question:"如果你想要学得快，你必须努力学习。",
+        answer: "If you want to learn quickly, you have to study hard."
+      },
+    ]
   },
   {
     lessonId: "41",
