@@ -3512,7 +3512,132 @@ export const questionBank: QuestionGroup[] = [
   {
     lessonId: "43",
     title: "Lesson43 原级/比较级/最高级的用法",
-    questions: []
+    questions: [
+      {
+        question:"她像我一样开心。",
+        answer: "She is as happy as I."
+      },
+      {
+        question:"为什么她像你一样开心？",
+        answer: "Why is she as happy as you？"
+      },
+      {
+        question:"她像我一样开心因为我们今天要去动物园。",
+        answer: "She is as happy as I because we want to go to the zoo today."
+      },
+      {
+        question:"为什么你的弟弟像她妹妹一样伤心呢？",
+        answer: "Why is your brother as sad as she sister?"
+      },
+      {
+        question:"我弟弟像她妹妹一样伤心因为这个早上他们必须学习英文。",
+        answer: "My brother is as sad as she sister because they have to learn English this morning."
+      },
+      {
+        question:"你学英文学得好吗？",
+        answer: "Do you learn English well?"
+      },
+      {
+        question:"是的，我学英文学得非常好。",
+        answer: "Yes, I learn English very well."
+      },
+      {
+        question:"我英文学得像她一样好。",
+        answer: "I learn English as well as she."
+      },
+      {
+        question:"他和你一样聪明吗？",
+        answer: "Is he as smart as you?"
+      },
+      {
+        question:"不，他比我聪明。",
+        answer: "No, she is smarter than I."
+      },
+      {
+        question:"虽然他比你聪明，你工作比他努力。",
+        answer: "Although he is smarter than you, you work harder than he."
+      },
+      {
+        question:"因为我工作比他努力，我比他更富有。",
+        answer: "Because I work harder than he, I am richer than he."
+      },
+      {
+        question:"你的女儿比他女儿更漂亮吗？",
+        answer: "Is your daughter more beautiful than his daughter?"
+      },
+      {
+        question:"是的，我的女儿比他的女儿更漂亮。",
+        answer: "Yes, my daughter is more beautiful than his daughter."
+      },
+      {
+        question:"你比那个医生更快乐吗？",
+        answer: "Are you happier than that doctor?"
+      },
+      {
+        question:"是的，我的那个医生更快乐。",
+        answer: "Yes, I am happier than that doctor."
+      },
+      {
+        question:"那只狐狸（fox）是森林里跑得最快的。",
+        answer: "The fox runs the fastest in the forest."
+      },
+      {
+        question:"为什么那只狐狸（fox）是森林里跑得最快的？",
+        answer: "Why does that fox run the fastest in the forest?"
+      },
+      {
+        question:"因为它跑得比那只老虎还快。",
+        answer: "Because it runs faster than that tiger."
+      },
+      {
+        question:"这朵花是森林里最漂亮的花。",
+        answer: "The flower is the most beautiful in the forest."
+      },
+      {
+        question:"为什么这朵花是森林里最漂亮的？",
+        answer: "Why is the flower the most beautiful in the forest."
+      },
+      {
+        question:"因为这朵花跟你一样漂亮。",
+        answer: "Because the flower is as beautiful as you."
+      },
+      {
+        question:"那个农夫是镇上最富有的人。",
+        answer: "That farmer is the richest person in the town."
+      },
+      {
+        question:"为什么那个农夫是镇上最富有的人？",
+        answer: "Why is that farmer the richest person in the town?"
+      },
+      {
+        question:"因为那个农夫工作跟我一样努力。",
+        answer: "Because that farmer works as hard as I."
+      },
+      {
+        question:"这个棒球手是学校里最好的。",
+        answer: "The baseball player is the best in the school."
+      },
+      {
+        question:"他也是学校里最高大（biggest）的学生。",
+        answer: "He is also the biggest student in the school."
+      },
+      {
+        question:"那个老师是最差（worst）的。",
+        answer: "That teacher is the worst in the school."
+      },
+      {
+        question:"你更喜欢游泳吗？",
+        answer: "Do you like to swim more?"
+      },
+      {
+        question:"我喜欢游泳多于我喜欢跑步。",
+        answer: "I like to swim more than I like to run."
+      },
+      {
+        question:"我最喜欢游泳了。",
+        answer: "I like to swim the most."
+      },
+    ]
   },
   {
     lessonId: "44",
