@@ -518,7 +518,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Yes, that is his house."
       },
       {
-        question: "那是她的书桌",
+        question: "那是她的书桌。",
         answer: "That is her desk."
       },
       {
@@ -1479,7 +1479,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "那只蝴蝶在他的头正上方吗？",
-        answer: "Is that butterfly over his hand?"
+        answer: "Is that butterfly over his head?"
       },
       {
         question: "不，它不在。",
@@ -1559,7 +1559,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "这个人是玛丽的司机。",
-        answer: "This person is Marry's driver."
+        answer: "This person is Mary's driver."
       },
       {
         question: "那些猫的尾巴是白色的。",
@@ -1793,14 +1793,14 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "玛丽和杰森是好学生。",
-        answer: "Marry and Jason are good students."
+        answer: "Mary and Jason are good students."
       },
       {
         question: "你妈妈和我姑姑（aunt）是女服务生。",
         answer: "Your mother and my aunt are waitresses."
       },
       {
-        question: "这只猫和那只狗是懒惰的",
+        question: "这只猫和那只狗是懒惰的。",
         answer: "The cat and the dog are lazy."
       },
       {
@@ -1813,7 +1813,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "我的狗是大的而且我的狗是聪明的。",
-        answer: "My dog is big, and my dog is smart."
+        answer: "My dog is big and my dog is smart."
       },
       {
         question: "那些小孩是干净的还是脏的呢？",
@@ -2109,7 +2109,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "她的姐姐教他们艺术。",
-        answer: "She sister teaches them art."
+        answer: "Her sister teaches them art."
       },
       {
         question: "你们的医生教我音乐。",
@@ -2390,8 +2390,8 @@ export const questionBank: QuestionGroup[] = [
         answer: "No, he doesn't."
       },
       {
-        question: "他没有教我们英文。",
-        answer: "He doesn't. teach us math."
+        question: "他没有教我们数学。",
+        answer: "He doesn't teach us math."
       },
       {
         question: "他们教你美术吗？",
@@ -2539,7 +2539,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "当李先生教玛丽英文，她是快乐的。",
-        answer: "When Mr.Lee teaches Marry English, she is happy."
+        answer: "When Mr.Lee teaches Mary English, she is happy."
       },
       {
         question: "他是生气的当他是忙碌的。",
@@ -2555,7 +2555,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "玛丽是开心的当李先生教她英文。",
-        answer: "Marry is happy when Mr.Lee teaches her English."
+        answer: "Mary is happy when Mr.Lee teaches her English."
       }
     ]
   },
@@ -2700,7 +2700,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "She likes to swim."
       },
       {
-        question: "她喜欢在哪个泳池里游泳。",
+        question: "她喜欢在那个泳池里游泳。",
         answer: "She likes to swim in that pool"
       },
       {
@@ -2729,7 +2729,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "我喜欢唱歌而且我喜欢开车。",
-        answer: "I like to sing and I like to driver."
+        answer: "I like to sing and I like to drive."
       },
       {
         question: "我喜欢唱歌和开车。",
@@ -2791,7 +2791,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "玛丽从不微笑。",
-        answer: "Marry never smiles"
+        answer: "Mary never smiles"
       },
       {
         question: "我妈妈很少在客厅里喝酒。",
@@ -2982,7 +2982,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Does he always go there?"
       },
       {
-        question: "他总是去那里应为他不喜欢来这里。",
+        question: "他总是去那里因为他不喜欢来这里。",
         answer: "He always goes there because He doesn't like to come here."
       },
       {
@@ -3003,7 +3003,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "我们今晚唱歌吗？",
-        answer: "Do we sing tonight."
+        answer: "Do we sing tonight?"
       },
       {
         question: "我们今晚何时唱歌吗？",
@@ -3050,7 +3050,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "We sing here tonight."
       },
       {
-        question: "我们今天在哪里学英文。",
+        question: "我们今天在那里学英文。",
         answer: "We learn English there today."
       },
       {
@@ -3085,11 +3085,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "虽然这只狗非常小，它跑得很快。",
-        answer: "Although the dog is very small,it runs very fast."
+        answer: "Although the dog is very small, it runs very fast."
       },
       {
         question: "那个学生是非常聪明的，因为他学得很快。",
-        answer: "That student is very smart because she learns very quickly."
+        answer: "That student is very smart because he learns very quickly."
       },
       {
         question: "我非常喜欢那个女孩，因为她很可爱。",
@@ -3168,7 +3168,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "How many students do you teach?"
       },
       {
-        question: "我在哪里教大约40个学生。",
+        question: "我在那里教大约40个学生。",
         answer: "I teach about forty students there."
       },
       {
