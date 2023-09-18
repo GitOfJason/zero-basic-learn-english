@@ -3413,7 +3413,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"在9点钟我有一个重要的考试，所以我必须吃快点",
-        answer: "I have important test at nine o'clock, so I have to eat quickly."
+        answer: "I have a important test at nine o'clock, so I have to eat quickly."
       },
       {
         question:"我也必须开得很快如果我想要在9点抵达那里。",
@@ -3421,7 +3421,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"何时是玛丽的生日？",
-        answer: "When is Mary's birthday."
+        answer: "When is Mary's birthday?"
       },
       {
         question:"玛丽的生日是在星期六.",
@@ -3437,11 +3437,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"如果你想要庆祝玛丽的生日，你必须买一个蛋糕。",
-        answer: "If you want to celebrate Mary' birthday, you have to buy a cake."
+        answer: "If you want to celebrate Mary's birthday, you have to buy a cake."
       },
       {
         question:"星期五我想要在那家蛋糕店买一个蛋糕。",
-        answer: "I want to buy a cake at he cake store on Friday."
+        answer: "I want to buy a cake at that cake store on Friday."
       },
       {
         question:"那家蛋糕店在哪里？",
@@ -3453,7 +3453,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"星期五你想要和我去买个蛋糕吗？",
-        answer: "Do you want to  buy a cake with me on Friday?"
+        answer: "Do you want to buy a cake with me on Friday?"
       },
       {
         question:"虽然星期五我有个重要的考试, 但我想要和你买蛋糕。",
@@ -3493,11 +3493,11 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"你也喜欢每天上学吗？",
-        answer: "Do you also like to go to school ever day?"
+        answer: "Do you also like to go to school every day?"
       },
       {
         question:"不，我讨厌每天上学。",
-        answer: "No, I hate to go to school ever day."
+        answer: "No, I hate to go to school every day."
       },
       {
         question:"因为学校的那只狗总是喜欢咬（bite）我。",
@@ -3519,7 +3519,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"为什么她像你一样开心？",
-        answer: "Why is she as happy as you？"
+        answer: "Why is she as happy as you?"
       },
       {
         question:"她像我一样开心因为我们今天要去动物园。",
@@ -3551,7 +3551,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"不，他比我聪明。",
-        answer: "No, she is smarter than I."
+        answer: "No, he is smarter than I."
       },
       {
         question:"虽然他比你聪明，你工作比他努力。",
@@ -3574,7 +3574,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Are you happier than that doctor?"
       },
       {
-        question:"是的，我的那个医生更快乐。",
+        question:"是的，我比那个医生更快乐。",
         answer: "Yes, I am happier than that doctor."
       },
       {
@@ -3595,7 +3595,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"为什么这朵花是森林里最漂亮的？",
-        answer: "Why is the flower the most beautiful in the forest."
+        answer: "Why is the flower the most beautiful in the forest?"
       },
       {
         question:"因为这朵花跟你一样漂亮。",
@@ -3622,7 +3622,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "He is also the biggest student in the school."
       },
       {
-        question:"那个老师是最差（worst）的。",
+        question:"那个老师是学校里最差（worst）的。",
         answer: "That teacher is the worst in the school."
       },
       {
