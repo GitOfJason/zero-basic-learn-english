@@ -1475,7 +1475,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "那只蝴蝶（butterfly）在他的头正上方（over）。",
-        answer: "That butterfly is over his hand."
+        answer: "That butterfly is over his head."
       },
       {
         question: "那只蝴蝶在他的头正上方吗？",
@@ -1809,7 +1809,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "你的房间是小的而且你的房间是脏的。",
-        answer: "Your room is small, and your room is dirty."
+        answer: "Your room is small and your room is dirty."
       },
       {
         question: "我的狗是大的而且我的狗是聪明的。",
@@ -2305,7 +2305,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "他们教我们历史。",
-        answer: "They teach we history."
+        answer: "They teach us history."
       },
       {
         question: "他们教我们历史吗？",
@@ -2983,7 +2983,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question: "他总是去那里因为他不喜欢来这里。",
-        answer: "He always goes there because He doesn't like to come here."
+        answer: "He always goes there because he doesn't like to come here."
       },
       {
         question: "我们今天学英文。",
@@ -3030,7 +3030,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "Does he come early?"
       },
       {
-        question: "他来得早吗？",
+        question: "为什么他来得早？",
         answer: "Why does he come early?"
       },
       {
@@ -3449,7 +3449,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"那家蛋糕店在书店附近。",
-        answer: "That cake store near the bookstore."
+        answer: "That cake store is near the bookstore."
       },
       {
         question:"星期五你想要和我去买个蛋糕吗？",
@@ -3481,7 +3481,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"在7月份台湾也有许多美国人吗？",
-        answer: "Are there also many  Americans in Taiwan in July?"
+        answer: "Are there also many Americans in Taiwan in July?"
       },
       {
         question:"是的，7月份也有许多美国人在台湾。",
