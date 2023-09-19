@@ -3413,7 +3413,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"在9点钟我有一个重要的考试，所以我必须吃快点",
-        answer: "I have a important test at nine o'clock, so I have to eat quickly."
+        answer: "I have am important test at nine o'clock, so I have to eat quickly."
       },
       {
         question:"我也必须开得很快如果我想要在9点抵达那里。",
@@ -3642,7 +3642,104 @@ export const questionBank: QuestionGroup[] = [
   {
     lessonId: "44",
     title: "Lesson44 现在进行时的用法",
-    questions: []
+    questions: [
+      {
+        question:"你在哪里？",
+        answer: "Where are you?"
+      },
+      {
+        question:"我在公园里。",
+        answer: "I am in the park."
+      },
+      {
+        question:"我正在公园里散步。",
+        answer: "I am walking in the park."
+      },
+      {
+        question:"对我来说每天散步是非常重要的",
+        answer: "It is very important for me to walk every day."
+      },
+      {
+        question:"有许多人现在正在公园里散步。",
+        answer: "There are many persons walking in the park now."
+      },
+      {
+        question:"你想要来这里吗？",
+        answer: "Do you want to come here?"
+      },
+      {
+        question:"不，我正在客厅里看电视。",
+        answer: "No, I am watching TV in the living room."
+      },
+      {
+        question:"我喜欢看电视多于我喜欢散步。",
+        answer: "I like to watch TV more than I like to walk."
+      },
+      {
+        question:"你现在正在做什么呢？",
+        answer: "What are you doing now?"
+      },
+      {
+        question:"我正在写字。",
+        answer: "I am writing."
+      },
+      {
+        question:"为什么你正在写字呢？",
+        answer: "Why are you writing?"
+      },
+      {
+        question:"因为我正在做我的作业。",
+        answer: "Because I am doing my homework."
+      },
+      {
+        question:"Jason 在哪里？",
+        answer: "Where is Jason?"
+      },
+      {
+        question:"他正在和他的狗玩。",
+        answer: "He is playing with his dog."
+      },
+      {
+        question:"他们正在挖花园的土（dirt）吗？",
+        answer: "Are they digging the dirt in the garden?"
+      },
+      {
+        question:"不，他们正在森林里玩。",
+        answer: "No, they are playing in the forest."
+      },
+      {
+        question:"他们正在玩什么？",
+        answer: "What are they playing?"
+      },
+      {
+        question:"他们正在跑步。",
+        answer: "They are running."
+      },
+      {
+        question:"谁跑得比较快？",
+        answer: "Who runs faster?"
+      },
+      {
+        question:"Jason 跑得比那只胖狗快。",
+        answer: "Jason runs faster than that fat dog."
+      },
+      {
+        question:"你也跑得像Jason一样快吗？",
+        answer: "Do you also run as fast as Jason?"
+      },
+      {
+        question:"不，我跑得像那只胖狗一样慢。",
+        answer: "No, I run as slowly as that fat dog."
+      },
+      {
+        question:"你现在在做什么？",
+        answer: "What are you doing now?"
+      },
+      {
+        question:"我正在公园里跑步。",
+        answer: "I am running in the park."
+      },
+    ]
   },
   {
     lessonId: "45",
