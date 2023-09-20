@@ -3744,7 +3744,116 @@ export const questionBank: QuestionGroup[] = [
   {
     lessonId: "45",
     title: "Lesson45 现在完成时的用法",
-    questions: []
+    questions: [
+      {
+        question:"我现在非常饿。",
+        answer: "I am very hungry now."
+      },
+      {
+        question:"你想要吃一个鸡蛋吗？",
+        answer: "Do you want to eat an egg?"
+      },
+      {
+        question:"我已经吃了9个鸡蛋了。",
+        answer: "I have eaten nine eggs."
+      },
+      {
+        question:"你想要吃一些面包吗？",
+        answer: "Do you want to eat some bread?"
+      },
+      {
+        question:"我已经吃了很多面包了。",
+        answer: "I have eaten much bread."
+      },
+      {
+        question:"你想要喝一些果汁吗？",
+        answer: "Do you want to drink some juice?"
+      },
+      {
+        question:"我已经喝了许多果汁了。",
+        answer: "I have drunk much juice."
+      },
+      {
+        question:"你必须现在去睡觉因为你已经吃了许多东西了。",
+        answer: "You have to sleep now because you have eaten many things."
+      },
+      {
+        question:"你想要买那本最新的小说（novel）吗？",
+        answer: "Do you want to buy the newest novel?"
+      },
+      {
+        question:"我已经买了那本最新的小说了。",
+        answer: "I have bought that newest novel."
+      },
+      {
+        question:"你已经读了那本小说了吗？",
+        answer: "Have you read that novel?"
+      },
+      {
+        question:"不，我还没有读那本小说。",
+        answer: "No, I have not read that novel."
+      },
+      {
+        question:"你现在正在做什么？",
+        answer: "What are you doing now?"
+      },
+      {
+        question:"我现在正在洗我爸爸的车。",
+        answer: "I am washing my dad's car."
+      },
+      {
+        question:"你已经完成了你的作业了吗？",
+        answer: "Have you finished your homework?"
+      },
+      {
+        question:"是的，我已经完成了我的作业。",
+        answer: "Yes, I have finished my homework."
+      },
+      {
+        question:"我还没完成我的作业因为我正在读那本小说。",
+        answer: "I have not finished my homework because I am reading that novel."
+      },
+      {
+        question:"你曾经去过韩国吗？",
+        answer: "Have you ever been to Korea?"
+      },
+      {
+        question:"不，我还没去过韩国",
+        answer: "No, I have not been to Korea."
+      },
+      {
+        question:"你已经去过哪一个国家呢？",
+        answer: "Which country have you been to?"
+      },
+      {
+        question:"我已经去过泰国（Thailand）、日本和美国。",
+        answer: "I have been to Thailand, Japan and America."
+      },
+      {
+        question:"今天我弟弟已经去泰国（Thailand）了。",
+        answer: "My brother has gone to Thailand today."
+      },
+      {
+        question:"他喜欢泰国(Thailand)因为那里有许多好吃的海鲜。",
+        answer: "He likes Thailand because There is much delicious seafood there."
+      },
+      {
+        question:"我计划这个月去英国。",
+        answer: "I plan to go to England this month."
+      },
+      {
+        question:"你曾经去过英国吗？",
+        answer: "Have you ever been to England?"
+      },
+      {
+        question:"是的，我已经去过英国了。",
+        answer: "Yes, I have been to England."
+      },
+      {
+        question:"我喜欢英国，因为英国是一个漂亮的国家。",
+        answer: "I like England because England is a beautiful country."
+      },
+    ]
   },
   {
     lessonId: "46",
