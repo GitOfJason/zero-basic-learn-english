@@ -3531,7 +3531,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"我弟弟像她妹妹一样伤心因为这个早上他们必须学习英文。",
-        answer: "My brother is as sad as she sister because they have to learn English this morning."
+        answer: "My brother is as sad as her sister because they have to learn English this morning."
       },
       {
         question:"你学英文学得好吗？",
@@ -3656,7 +3656,7 @@ export const questionBank: QuestionGroup[] = [
         answer: "I am walking in the park."
       },
       {
-        question:"对我来说每天散步是非常重要的",
+        question:"对我来说每天散步是非常重要的。",
         answer: "It is very important for me to walk every day."
       },
       {
@@ -3775,7 +3775,7 @@ export const questionBank: QuestionGroup[] = [
       },
       {
         question:"你必须现在去睡觉因为你已经吃了许多东西了。",
-        answer: "You have to sleep now because you have eaten many things."
+        answer: "You have to go sleep now because you have eaten many things."
       },
       {
         question:"你想要买那本最新的小说（novel）吗？",
@@ -3858,12 +3858,122 @@ export const questionBank: QuestionGroup[] = [
   {
     lessonId: "46",
     title: "Lesson46 现在完成进行时的用法",
-    questions: []
+    questions: [
+      {
+        question:"他已经洗完车了吗?",
+        answer: "Has he washed the car?"
+      },
+      {
+        question:"不，他还没有洗完车。",
+        answer: "No, he has not washed the car."
+      },
+      {
+        question:"他已经持续洗车2小时了。",
+        answer: "He has been washing the car for two hours."
+      },
+      {
+        question:"为什么他已经持续洗车2小时了?",
+        answer: "Why has he been washing the car for two hours?"
+      },
+      {
+        question:"他已经持续洗车2小时因为那辆车非常脏。",
+        answer: "He has been washing the car for two hours because that car is very dirty."
+      },
+      {
+        question:"你的女儿正在哭吗?",
+        answer: "Is your daughter crying?"
+      },
+      {
+        question:"是的，她已经持续哭40分钟了。",
+        answer: "Yes, she has been crying for forty minutes."
+      },
+      {
+        question:"为什么她已经持续哭40分钟呢？",
+        answer: "Why has she been crying for forty minutes?"
+      },
+      {
+        question:"因为她还没有完成她的作业。",
+        answer: "Because she has not finished her homework."
+      },
+      {
+        question:"他已经完成了他的作业了吗？",
+        answer: "Has he finished his homework?"
+      },
+      {
+        question:"不，他还没完成他的作业。",
+        answer: "No, he has not finished his homework."
+      },
+      {
+        question:"从3点开始他就已经持续地睡觉。",
+        answer: "He has been sleeping since three o'clock."
+      },
+      {
+        question:"他已经持续睡了4小时了。",
+        answer: "He has been sleeping for four hours."
+      },
+      {
+        question:"为什么从3点开始他就已经持续地睡觉？",
+        answer: "Why has he been sleeping since three o'clock?"
+      },
+      {
+        question:"因为他今天非常累。",
+        answer: "Because he is very tired today."
+      },
+      {
+        question:"今天下午他已经持续走了1小时。",
+        answer: "He has been walking for one hour this afternoon."
+      },
+      {
+        question:"为什么今天下午他已经持续走了1小时？",
+        answer: "Why has he been walking for one hour this afternoon?"
+      },
+      {
+        question:"因为他的自行车坏了。",
+        answer: "Because his bicycle is broken."
+      },
+    ]
   },
   {
     lessonId: "47",
     title: "Lesson47 一般过去时的用法",
-    questions: []
+    questions: [
+      {
+        question:"我以前是一位医生。",
+        answer: "I was a doctor before."
+      },
+      {
+        question:"你以前是一位医生吗？",
+        answer: "Were you a doctor before?"
+      },
+      {
+        question:"是的，我以前是一位医生。",
+        answer: "Yes, I was a doctor before."
+      },
+      {
+        question:"因为我喜欢教英文，我现在是一位英文老师。",
+        answer: "Because I like to teach English, I am a English teacher now."
+      },
+      {
+        question:"你何时在这个城市里教英文呢？",
+        answer: "When did you teach English in this city?"
+      },
+      {
+        question:"去年我开始在这个城市里教英文。",
+        answer: "I started to teach English in the city last year."
+      },
+      {
+        question:"你以前在哪里教英文？",
+        answer: "Where did you teach English before?"
+      },
+      {
+        question:"我两年之前在台北（Taipei）教英语。",
+        answer: "I taught English in Taipei tow years ago."
+      },
+      {
+        question:"台北（Taipei）也是一个漂亮的城市。",
+        answer: "Taipei is also a beautiful city."
+      },
+    ]
   },
   {
     lessonId: "48",
